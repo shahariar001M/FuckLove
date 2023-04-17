@@ -38,7 +38,7 @@ Hi Jan Fuck me Baby.OMG. I love you 😂😂😂
 
        cd FuckLove
 
-       python Fucklove.py
+       python FuckLove.py
 
 [ Note : This tools are best robot voice random Cloning tools..So enjoy it to use. ]
 
